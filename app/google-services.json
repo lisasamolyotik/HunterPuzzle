@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348076355222",
+    "project_id": "hunter-puzzle",
+    "storage_bucket": "hunter-puzzle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348076355222:android:e42bbd0902cb67ea0e9cb7",
+        "android_client_info": {
+          "package_name": "com.puzzle.hunter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348076355222-9bp77hjs8s0bvskh7jgs5ptin19qmslh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0R6n57x2u1Y3LDHVODETVj4sX9uugRoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348076355222-9bp77hjs8s0bvskh7jgs5ptin19qmslh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
